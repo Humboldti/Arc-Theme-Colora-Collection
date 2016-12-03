@@ -14,6 +14,15 @@ But the best thing to do always, is to run the scripts yourself on your personal
 
 
 
+# Arc Themes on Linux Mint 18.1
+
+## Arc-
+![Screenshots](http://i.imgur.com/R1UBRl6.jpg)
+
+
+
+
+
 # Arc Themes on Linux Mint 18
 
 ##Arc-Sun
@@ -96,10 +105,7 @@ A screenshot of the Arc-Dark-Sun theme
 
 
 
-# Arc Themes on Linux Mint 18.1
 
-
-![Screenshots](http://i.imgur.com/R1UBRl6.jpg)
 
 
 # F  A  Q
