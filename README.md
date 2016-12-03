@@ -49,7 +49,7 @@ A screenshot of the Arc-Dark-Sun theme
 ##A screenshot of the Arc-Dark-Froly theme
 
 ![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
-
+<
 ##A screenshot of the Arc-Dark-Polo theme
 
 ![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
