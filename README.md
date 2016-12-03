@@ -1,5 +1,20 @@
 # Arc Theme Colora Collection
 
+Since the arc theme is constantly in evolution and the same goes for cinnamon and linux mint, I made this github to make a division between cinnamon versions.
+
+Linux Mint 18 has standard cinnamon 3.0+ and Linux Mint 18.1 has standard version 3.2+
+
+
+You can find your personal cinnamon version when you type the following code in the terminal
+
+    cinnamon --version
+
+But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option.
+
+More information how to do just that, can be found here. 
+
+
+http://erikdubois.be/category/themes/arc-based-themes/
 
 
 # F  A  Q
