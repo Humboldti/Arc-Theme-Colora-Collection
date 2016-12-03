@@ -17,6 +17,18 @@ More information how to do just that, can be found here.
 http://erikdubois.be/category/themes/arc-based-themes/
 
 
+
+# Arc Themes on Linux Mint 18
+
+
+
+
+# Arc Themes on Linux Mint 18.1
+
+
+![Screenshots](http://i.imgur.com/R1UBRl6.jpg)
+
+
 # F  A  Q
 --------------------
 
