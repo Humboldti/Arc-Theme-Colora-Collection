@@ -40,7 +40,7 @@ But the best thing to do always, is to run the scripts yourself on your personal
 
 ## Arc-Dark-Violet
 
-![Screenshots](http://i.imgur.com/R1UBRl6.
+![Screenshots](http://i.imgur.com/R1UBRl6.jpg)
 
 
 ## Arc-Dark-Watusi
