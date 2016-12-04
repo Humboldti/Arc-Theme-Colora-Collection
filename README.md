@@ -25,9 +25,18 @@ But the best thing to do always, is to run the scripts yourself on your personal
 
 ![Screenshots](http://i.imgur.com/pvNIozJ.jpg)
 
+![Screenshots](http://i.imgur.com/kWjcvG9.jpg)
+
+
 ## Arc-Dark-Majestic
 
 ![Screenshots](http://i.imgur.com/1E5jruh.jpg)
+
+
+## Arc-Dark-Polo
+
+![Screenshots](http://i.imgur.com/FqQmBqW.jpg)
+
 
 ## Arc-Dark-Violet
 
