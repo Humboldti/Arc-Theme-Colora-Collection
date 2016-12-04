@@ -16,13 +16,21 @@ But the best thing to do always, is to run the scripts yourself on your personal
 
 # Arc Themes on Linux Mint 18.1
 
+## Arc-Dark-Froly
+
+![Screenshots](http://i.imgur.com/pvNIozJ.jpg)
+
+## Arc-Dark-Majestic
+
+![Screenshots](http://i.imgur.com/1E5jruh.jpg)
+
 ## Arc-Dark-Violet
 
 ![Screenshots](http://i.imgur.com/R1UBRl6.jpg)
 
-## Arc-Dark-Froly
 
-![Screenshots](http://i.imgur.com/pvNIozJ.jpg)
+
+
 
 
 # Arc Themes on Linux Mint 18
