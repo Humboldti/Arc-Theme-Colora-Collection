@@ -12,7 +12,7 @@ You can find your personal cinnamon version when you type the following code in 
 
 But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option.  More information how to do just that, can be found here : http://erikdubois.be/category/themes/arc-based-themes/
 
-
+Created for GTK 3.18
 
 # Arc Themes on Linux Mint 18.1
 
