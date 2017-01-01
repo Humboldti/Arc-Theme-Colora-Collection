@@ -47,6 +47,10 @@ Created for GTK 3.18
 
 ![Screenshots](http://i.imgur.com/FqQmBqW.jpg)
 
+## Arc-Dark-Smoke
+
+![Screenshots](http://i.imgur.com/IkN9L1T.jpg)
+
 
 ## Arc-Dark-Violet
 
