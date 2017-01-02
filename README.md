@@ -49,7 +49,7 @@ Created for GTK 3.18
 
 ## Arc-Dark-Smoke
 
-![Screenshots](http://i.imgur.com/IkN9L1T.jpg)
+![Screenshots](http://i.imgur.com/ckjQAas.jpg)
 
 
 ## Arc-Dark-Violet
