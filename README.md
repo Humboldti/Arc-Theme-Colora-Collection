@@ -23,7 +23,8 @@ https://plus.google.com/u/0/collection/UlExqB
 
 
 
-Created for GTK 3.18
+
+
 
 # Arc Themes on Linux Mint 18.1
 
