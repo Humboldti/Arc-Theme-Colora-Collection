@@ -2,8 +2,9 @@
 
 Since the arc theme is constantly in evolution and the same goes for Cinnamon and Linux Mint, I made this github to make a division between cinnamon versions.
 
-	Linux Mint 18 has standard cinnamon 3.0+
+	Linux Mint 18   has standard version 3.0+
 	Linux Mint 18.1 has standard version 3.2+
+	Linux Mint 18.2 has standard version 3.4+
 
 
 You can find your personal cinnamon version when you type the following code in the terminal
@@ -11,6 +12,16 @@ You can find your personal cinnamon version when you type the following code in 
     cinnamon --version
 
 But the best thing to do always, is to run the scripts yourself on your personal setup. This will always be the best option.  More information how to do just that, can be found here : http://erikdubois.be/category/themes/arc-based-themes/
+
+
+All latest creations can be viewed on google plus.
+
+Linux Mint 18.2 Sonya - Cinnamon 3.4 - GTK 3.18
+
+
+https://plus.google.com/u/0/collection/UlExqB
+
+
 
 Created for GTK 3.18
 
