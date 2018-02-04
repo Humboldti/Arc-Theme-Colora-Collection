@@ -5,6 +5,7 @@ Since the arc theme is constantly in evolution and the same goes for Cinnamon an
 	Linux Mint 18   has standard version 3.0+
 	Linux Mint 18.1 has standard version 3.2+
 	Linux Mint 18.2 has standard version 3.4+
+	Linux Mint 18.3 has standard version 3.6+
 
 
 You can find your personal cinnamon version when you type the following code in the terminal
@@ -15,8 +16,6 @@ But the best thing to do always, is to run the scripts yourself on your personal
 
 
 # All latest creations can be viewed on google plus.
-
-Linux Mint 18.2 Sonya - Cinnamon 3.4 - GTK 3.18
 
 
 https://plus.google.com/u/0/collection/UlExqB
